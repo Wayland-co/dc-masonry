@@ -1,0 +1,50 @@
+{
+  "name": "D.C. Masonry",
+  "slug": "dc-masonry",
+  "domain": "itsdcmasonry.com",
+  "source": "outbound",
+  "intakeDate": "2026-06-03T18:52:17.646Z",
+  "currentState": "scaffolded",
+  "stateHistory": [
+    {
+      "state": "prospect",
+      "enteredAt": "2026-06-03T18:52:17.646Z"
+    },
+    {
+      "state": "scaffolded",
+      "enteredAt": "2026-06-03T19:03:52.656Z"
+    },
+    {
+      "state": "scaffolded",
+      "enteredAt": "2026-06-03T19:06:02.787Z"
+    },
+    {
+      "state": "deployed",
+      "enteredAt": "2026-06-03T19:19:09.396Z"
+    },
+    {
+      "state": "scaffolded",
+      "enteredAt": "2026-06-03T23:21:23.369Z"
+    }
+  ],
+  "lastTouch": "2026-06-03T23:21:23.369Z",
+  "blockers": "",
+  "nextAction": "schedule discovery call",
+  "ownerOfNextAction": "will",
+  "decisionMakerName": "Duarte Correia",
+  "decisionMakerEmail": "dcmasonryinc@gmail.com",
+  "notes": "Teardown target (cold). GoDaddy builder, copyright frozen 2018, footer still says 'Construction Company MP Template'. Mason — aligns with Stone Way reference niche. (401) 474-9343 / dcmasonryinc@gmail.com.",
+  "tags": [],
+  "brand": {
+    "primaryColor": "#7A7A00",
+    "primaryFg": "#FFFFFF",
+    "accentColor": "#FFFF00",
+    "accentFg": "#757500",
+    "background": "#FFFFFF",
+    "foreground": "#161616",
+    "muted": "#F7F7F7",
+    "border": "#F7F7F7",
+    "source": "https://itsdcmasonry.com/",
+    "capturedAt": "2026-06-03T18:52:17.862Z"
+  }
+}
