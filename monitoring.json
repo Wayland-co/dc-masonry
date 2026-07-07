@@ -1,0 +1,616 @@
+{
+  "lastCheck": {
+    "url": "https://itsdcmasonry.com",
+    "host": "itsdcmasonry.com",
+    "checkedAt": "2026-07-07T21:19:18.522Z",
+    "up": true,
+    "status": 200,
+    "latencyMs": 163,
+    "ssl": {
+      "validTo": "2027-03-13T15:45:49.000Z",
+      "daysRemaining": 248
+    }
+  },
+  "history": [
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T21:19:18.522Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 163,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T21:04:13.633Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 167,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T20:49:11.727Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 160,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T20:34:07.283Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 180,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T20:19:05.363Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 164,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T20:04:01.042Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 164,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T19:48:56.671Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 176,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T19:33:52.495Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 149,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T19:18:48.272Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 201,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T19:03:44.202Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 156,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T18:48:40.207Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 165,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T18:33:35.936Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 186,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T18:18:31.068Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 153,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T18:03:29.334Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 155,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T17:48:24.234Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 162,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T17:33:19.655Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 171,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T17:18:15.245Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 326,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T17:03:13.231Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 163,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T16:48:09.051Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 157,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T16:33:04.400Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 155,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T16:17:59.990Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 182,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T16:02:55.796Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 190,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T15:47:51.614Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 146,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 248
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T15:32:47.213Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 183,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T15:17:45.286Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 185,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T15:02:42.989Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 177,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T14:47:41.021Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 164,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T14:32:36.255Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 153,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T14:17:31.702Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 175,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T14:02:27.320Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 451,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T13:47:22.251Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 157,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T13:32:17.730Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 147,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T13:17:13.463Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 165,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T13:02:11.528Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 177,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T12:47:09.616Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 163,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T12:32:05.413Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 200,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T12:17:03.143Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 161,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T12:02:01.126Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 157,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T11:46:59.168Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 177,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T11:31:55.048Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 162,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T11:16:51.022Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 216,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T11:01:46.271Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 151,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T10:46:41.104Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 140,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T10:31:36.768Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 220,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T10:16:31.886Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 172,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T10:01:27.239Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 218,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T09:46:25.344Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 213,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T09:31:19.890Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 186,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T09:16:15.720Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 154,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    },
+    {
+      "url": "https://itsdcmasonry.com",
+      "host": "itsdcmasonry.com",
+      "checkedAt": "2026-07-07T09:01:13.831Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 160,
+      "ssl": {
+        "validTo": "2027-03-13T15:45:49.000Z",
+        "daysRemaining": 249
+      }
+    }
+  ]
+}

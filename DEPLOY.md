@@ -8,6 +8,48 @@
 - **Custom domain (apex):** https://dcmasonry.waylandandco.com
 - **Custom domain (www):** https://www.dcmasonry.waylandandco.com
 
+## Environment variables (set in Vercel → Settings → Environment Variables)
+
+The contact form delivers leads through these. If they are missing, a freshly
+deployed site shows **"Contact form isn't configured yet"** — or worse, silently
+emails an on-domain address that has no inbox. Set them in **Vercel → your
+project → Settings → Environment Variables** (Production scope), then redeploy.
+The generated `.env.local.example` in this project lists every variable this
+specific client uses.
+
+### Lead delivery — Resend (the default path)
+
+| Variable | Required | Value |
+|----------|----------|-------|
+| `RESEND_API_KEY` | Yes | Your Resend API key from <https://resend.com> (starts with `re_`). |
+| `RESEND_FROM` | Yes | A sender on your **verified** domain, e.g. `hello@dcmasonry.waylandandco.com`. |
+| `CONTACT_NOTIFY_TO` | **Strongly recommended** | A real inbox you actually read (e.g. a personal Gmail). |
+
+> ⚠️ **The gotcha that loses leads:** a Resend-verified domain only proves you
+> can *send* from `@dcmasonry.waylandandco.com` — it does **not** create a mailbox that
+> *receives* mail there. If `CONTACT_NOTIFY_TO` is unset, owner notifications
+> fall back to the business email (`dcmasonryinc@gmail.com`), which usually has no
+> inbox, so submitted leads silently vanish. Always set `CONTACT_NOTIFY_TO` to
+> an address someone checks.
+
+### Lead delivery — HubSpot (optional)
+
+| Variable | Required | Value |
+|----------|----------|-------|
+| `HUBSPOT_PORTAL_ID` | Optional | Your HubSpot portal ID. |
+| `HUBSPOT_FORM_GUID` | Optional | The GUID of the HubSpot form to submit to. |
+
+Leaving these **unset is fine** — the Resend fallback above then becomes the
+delivery path. When they *are* set, leads are written to HubSpot **and** Resend
+still fires the owner notification, so set `CONTACT_NOTIFY_TO` either way.
+
+### Booking (only if scheduling is enabled for this client)
+
+Booking variables live in the generated `.env.local.example`:
+`NEXT_PUBLIC_BOOKING_PROVIDER`, plus `NEXT_PUBLIC_CALCOM_USERNAME` /
+`NEXT_PUBLIC_CALCOM_EVENT_TYPE` (Cal.com) or `NEXT_PUBLIC_CALENDLY_URL`
+(Calendly). Set the same values in Vercel.
+
 ## DNS Records
 
 Add the following records to your DNS provider (registrar — GoDaddy, Namecheap, Cloudflare, Squarespace, etc.):
